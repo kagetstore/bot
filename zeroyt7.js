@@ -1,3 +1,8 @@
+//Mau Ngapain Sih
+//Klo Mau Edit Di zeroyt7.js
+//Mau Beli Yg No Enc ?
+//Chat Gue 085763500823
+
 JScriptCodeDom.CodeParseException: lambda arrow require left (...) or variable, not CodeFunctionCallExpression : async(zeroyt7,mek,_welkom) , Line 60, Char 59 ---> System.Exception: lambda arrow require left (...) or variable, not CodeFunctionCallExpression : async(zeroyt7,mek,_welkom)
    at JScriptCodeDom.CodeParser.ContinueExpressionCore(CodeExpression leftexp, Boolean allowcommer, Boolean parsingFunctionStatement)
    at JScriptCodeDom.CodeParser.ContinueExpression(CodeExpression leftexp, Boolean allowcommer, Boolean parsingFunctionStatement)
