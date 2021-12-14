@@ -926,7 +926,7 @@ teks =
 ┃⚠️ 𝐍𝐎𝐓𝐄 : 𝐁𝐎𝐓 𝐎𝐍 𝟐𝟒 𝐉𝐀𝐌 ⚠️
 ┗━━⬣➢
 zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
-              break
+break
 //━━━━━━━━━━━━━━━[ INFO BOT ]━━━━━━━━━━━━━━━━━//
 
 case "speed":
